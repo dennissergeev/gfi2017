@@ -1,8 +1,8 @@
 ---
-title: Polar lows<br>and how background environment can influence their development
+title: Polar lows<br>and how surface conditions can influence their development
 author:
 - Denis Sergeev,
-- I. Renfrew, T. Spengler
+- Ian Renfrew, Thomas Spengler
 date: GFI seminar | Bergen, Norway | 1 June 2017
 demo: "https://dennissergeev.github.io/gfi2017"
 transition: fade
