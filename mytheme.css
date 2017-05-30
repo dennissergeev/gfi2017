@@ -1,0 +1,126 @@
+@import url("./reveal.js/css/theme/white.css");
+@import url("./icons/font-awesome/css/font-awesome.min.css");
+@import url("./icons/academicons/css/academicons.css");
+
+.reveal {
+  font-family: "Open Sans", sans-serif;
+  font-size: 28px;
+  font-weight: 200;
+  letter-spacing: -0.02em;
+  color: #333333; }
+
+.reveal p {
+  margin: 5px 0 5px 0;
+}
+
+.reveal h1,
+.reveal h2,
+.reveal h3,
+.reveal h4,
+.reveal h5,
+.reveal h6 { 
+  margin: 0 0 10px 0;
+  text-transform: none;
+  text-shadow: none; 
+  -webkit-hyphens: none;
+  -moz-hyphens: none;
+  hyphens: none;
+  font-size: 38px;
+}
+
+.reveal .title {
+  margin: 75px 0 70px 0;
+  font-size: 150%!important;
+}
+.reveal .author {
+  font-size: 100%!important;
+}
+
+.reveal section img { background: none;
+                      border: none;
+                      box-shadow: none; }
+
+/* some custom classes taken from pkgwtheme.css */
+.reveal .slides > section {
+    /* Force every slide to be full height so that footers work */
+    height: 100%;
+    /*border-style: solid; border-color: #ff0000; border-width:1px;*/
+    padding: 0px;
+}
+
+.reveal section div img, .reveal section div video {
+    /* If inside a <div>, assume manual layout; let the image
+ *        fill the whole box */
+    max-width: 100%;
+    margin: 0 0 0 0;
+}
+
+.reveal .ctr {
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.reveal .w10  { width: 10%!important; display: inline-block}
+.reveal .w20  { width: 20%!important; display: inline-block}
+.reveal .w25  { width: 25%!important; display: inline-block}
+.reveal .w30  { width: 30%!important; display: inline-block}
+.reveal .w35  { width: 35%!important; display: inline-block}
+.reveal .w40  { width: 40%!important; display: inline-block}
+.reveal .w45  { width: 45%!important; display: inline-block}
+.reveal .w50  { width: 50%!important; display: inline-block}
+.reveal .w55  { width: 55%!important; display: inline-block}
+.reveal .w60  { width: 60%!important; display: inline-block}
+.reveal .w65  { width: 65%!important; display: inline-block}
+.reveal .w70  { width: 70%!important; display: inline-block}
+.reveal .w80  { width: 80%!important; display: inline-block}
+.reveal .w85  { width: 85%!important; display: inline-block}
+.reveal .w90  { width: 90%!important; display: inline-block}
+.reveal .w100 { width: 100%!important;display: inline-block}
+
+.img-with-text {
+    text-align: justify;
+    font-size: 50% ! important;
+}
+
+.img-with-text img {
+    float: right ! important;
+    display: block;
+    margin: 0 auto;
+}
+
+.reveal .icon-list {
+    margin-top: 50px;
+    list-style: none;
+    font-size: 120%;
+}
+
+.reveal .icon-list li {
+    margin: 10px;
+}
+
+.reveal .icon-list li i {
+    margin: 0px 10px;
+}
+
+.reveal .lcred {
+    text-align: left;
+    font-size: 50% !important;
+}
+
+/*
+.reveal .bgcred {
+    text-align: right;
+    font-size: 60% !important;
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+}
+.reveal .lcred {
+    text-align: left;
+    font-size: 55% !important;
+}
+
+.reveal .rcred {
+    text-align: right;
+    font-size: 55% !important;
+}*/
