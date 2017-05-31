@@ -1,5 +1,5 @@
 ---
-title: Polar lows<br>and how surface conditions can influence their development
+title: A polar low<br>and how surface conditions can influence its development
 author:
 - Denis Sergeev,
 - Ian Renfrew, Thomas Spengler
@@ -221,6 +221,10 @@ $$\Downarrow$$
 * Then I got angry and just purged Svalbard from the land mask completely
 </aside>
 
+# 
+<center>
+<blockquote class="twitter-tweet" data-lang="en"><p lang="no" dir="ltr">Satellittbildet over <a href="https://twitter.com/hashtag/Svalbard?src=hash">#Svalbard</a> viser et hjerteformet hull i skylaget. Ikke verst for de som får se sola gjennom et hjerte ❤️ <a href="https://t.co/q4sWjMWIvB">pic.twitter.com/q4sWjMWIvB</a></p>&mdash; Meteorologene (@Meteorologene) <a href="https://twitter.com/Meteorologene/status/869830858345205760">May 31, 2017</a></blockquote>
+</center>
 
 # (1) Experiment without Svalbard
 <div class="w100">
