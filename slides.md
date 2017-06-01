@@ -4,7 +4,7 @@ author:
 - Denis Sergeev,
 - Ian Renfrew, Thomas Spengler
 date: GFI seminar | Bergen, Norway | 1 June 2017
-demo: "https://dennissergeev.github.io/gfi2017"
+demo: "http://dennissergeev.github.io/gfi2017"
 transition: fade
 
 ---
